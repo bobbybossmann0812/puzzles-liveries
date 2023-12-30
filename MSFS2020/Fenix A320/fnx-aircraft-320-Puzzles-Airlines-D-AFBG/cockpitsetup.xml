@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<presets>
+  <dataset name="Default">
+    <weight value="0" />
+    <baro value="0" />
+    <takeoffshift value="0" />
+    <defaultAccel value="1" />
+    <brakeFans value="1" />
+    <wifiAntenna value="1" />
+    <bulkCargo value="1" />
+    <lightType value="0" />
+    <ddrmi value="1" />
+    <standby value="0" />
+    <metricStdby value="0" />
+    <gpws2500 value="1" />
+    <gpws2000 value="1" />
+    <gpws1000 value="1" />
+    <gpws500 value="1" />
+    <gpws400 value="1" />
+    <gpws300 value="1" />
+    <gpws200 value="1" />
+    <gpws100 value="1" />
+    <gpws50 value="1" />
+    <gpws40 value="1" />
+    <gpws30 value="1" />
+    <gpws20 value="1" />
+    <gpws10 value="1" />
+    <gpws5 value="1" />
+	<registration value="D-AFBG" />
+	<selcal value="BO-SS" />
+  </dataset>
+</presets>

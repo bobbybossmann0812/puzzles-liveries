@@ -1,0 +1,20 @@
+{
+  "dependencies": [
+    {
+      "name": "fnx320"
+    }
+  ],
+  "content_type": "AIRCRAFT",
+  "title": "Fenix Airbus A320 - Puzzles Airlines (D-AFBG)",
+  "manufacturer": "Airbus",
+  "creator": "Puzzles Airlines",
+  "package_version": "1.0.0",
+  "minimum_game_version": "1.7.14",
+  "release_notes": {
+    "neutral": {
+      "LastUpdate": "",
+      "OlderHistory": ""
+    }
+  },
+  "total_package_size": "00000000000827861051"
+}

@@ -1,0 +1,229 @@
+{
+  "content": [
+    {
+      "path": "auto_json.exe",
+      "size": 397312,
+      "date": 132453331062258969
+    },
+    {
+      "path": "MSFSLayoutGenerator.exe",
+      "size": 364544,
+      "date": 133039215606957944
+    },
+    {
+      "path": "ContentInfo/inibuilds-a300-PZL-D-AFHM/Thumbnail.jpg",
+      "size": 13520,
+      "date": 133483558856731002
+    },
+    {
+      "path": "SimObjects/Airplanes/inibuilds-a300-PZL-D-AFHM/aircraft.cfg",
+      "size": 851,
+      "date": 133484078561092021
+    },
+    {
+      "path": "SimObjects/Airplanes/inibuilds-a300-PZL-D-AFHM/model.D-AFHM/A300_EXTERIOR.xml",
+      "size": 785,
+      "date": 133483558856855014
+    },
+    {
+      "path": "SimObjects/Airplanes/inibuilds-a300-PZL-D-AFHM/model.D-AFHM/A300_EXTERIOR_LOD0.bin",
+      "size": 11737084,
+      "date": 133483558857995805
+    },
+    {
+      "path": "SimObjects/Airplanes/inibuilds-a300-PZL-D-AFHM/model.D-AFHM/A300_EXTERIOR_LOD0.gltf",
+      "size": 279721,
+      "date": 133483558858040447
+    },
+    {
+      "path": "SimObjects/Airplanes/inibuilds-a300-PZL-D-AFHM/model.D-AFHM/model.cfg",
+      "size": 649,
+      "date": 133483558858060284
+    },
+    {
+      "path": "SimObjects/Airplanes/inibuilds-a300-PZL-D-AFHM/Texture.D-AFHM/A300_ENGINE_LEFT_ALBD.PNG.DDS",
+      "size": 16777344,
+      "date": 133484088534844292
+    },
+    {
+      "path": "SimObjects/Airplanes/inibuilds-a300-PZL-D-AFHM/Texture.D-AFHM/A300_ENGINE_LEFT_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 133483558859359798
+    },
+    {
+      "path": "SimObjects/Airplanes/inibuilds-a300-PZL-D-AFHM/Texture.D-AFHM/A300_ENGINE_RIGHT_ALBD.PNG.DDS",
+      "size": 16777344,
+      "date": 133484088746288339
+    },
+    {
+      "path": "SimObjects/Airplanes/inibuilds-a300-PZL-D-AFHM/Texture.D-AFHM/A300_ENGINE_RIGHT_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 133483558861398373
+    },
+    {
+      "path": "SimObjects/Airplanes/inibuilds-a300-PZL-D-AFHM/Texture.D-AFHM/A300_EXT_Nose_Gear_ALBD.png.DDS",
+      "size": 5592560,
+      "date": 133484065846253409
+    },
+    {
+      "path": "SimObjects/Airplanes/inibuilds-a300-PZL-D-AFHM/Texture.D-AFHM/A300_EXT_NOSE_GEAR_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 133483558861735641
+    },
+    {
+      "path": "SimObjects/Airplanes/inibuilds-a300-PZL-D-AFHM/Texture.D-AFHM/A300_EXT_PLACARDS_ALBD.PNG.DDS",
+      "size": 16777344,
+      "date": 133483558862901237
+    },
+    {
+      "path": "SimObjects/Airplanes/inibuilds-a300-PZL-D-AFHM/Texture.D-AFHM/A300_EXT_PLACARDS_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 133483558862926037
+    },
+    {
+      "path": "SimObjects/Airplanes/inibuilds-a300-PZL-D-AFHM/Texture.D-AFHM/A300_PAX_FUSE_1001_ALBD.PNG.DDS",
+      "size": 67108992,
+      "date": 133484086256044667
+    },
+    {
+      "path": "SimObjects/Airplanes/inibuilds-a300-PZL-D-AFHM/Texture.D-AFHM/A300_PAX_FUSE_1001_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 133483558865708605
+    },
+    {
+      "path": "SimObjects/Airplanes/inibuilds-a300-PZL-D-AFHM/Texture.D-AFHM/A300_PAX_FUSE_1001_COMP.PNG.DDS",
+      "size": 16777344,
+      "date": 133483558867082507
+    },
+    {
+      "path": "SimObjects/Airplanes/inibuilds-a300-PZL-D-AFHM/Texture.D-AFHM/A300_PAX_Fuse_1001_comp.png.DDS.FLAGS",
+      "size": 21,
+      "date": 133483558867102348
+    },
+    {
+      "path": "SimObjects/Airplanes/inibuilds-a300-PZL-D-AFHM/Texture.D-AFHM/A300_PAX_FUSE_1001_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 133483558867127152
+    },
+    {
+      "path": "SimObjects/Airplanes/inibuilds-a300-PZL-D-AFHM/Texture.D-AFHM/A300_PAX_FUSE_1002_ALBD.PNG.DDS",
+      "size": 67108992,
+      "date": 133484086875072140
+    },
+    {
+      "path": "SimObjects/Airplanes/inibuilds-a300-PZL-D-AFHM/Texture.D-AFHM/A300_PAX_FUSE_1002_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 133483558869924593
+    },
+    {
+      "path": "SimObjects/Airplanes/inibuilds-a300-PZL-D-AFHM/Texture.D-AFHM/A300_PAX_FUSE_1003_ALBD.PNG.DDS",
+      "size": 67108992,
+      "date": 133484087168702269
+    },
+    {
+      "path": "SimObjects/Airplanes/inibuilds-a300-PZL-D-AFHM/Texture.D-AFHM/A300_PAX_FUSE_1003_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 133483558872702183
+    },
+    {
+      "path": "SimObjects/Airplanes/inibuilds-a300-PZL-D-AFHM/Texture.D-AFHM/A300_TAIL_ALBD.PNG.DDS",
+      "size": 67108992,
+      "date": 133484087644147069
+    },
+    {
+      "path": "SimObjects/Airplanes/inibuilds-a300-PZL-D-AFHM/Texture.D-AFHM/A300_TAIL_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 133483558875479777
+    },
+    {
+      "path": "SimObjects/Airplanes/inibuilds-a300-PZL-D-AFHM/Texture.D-AFHM/A300_TAIL_COMP.PNG.DDS",
+      "size": 67108992,
+      "date": 133483558882220410
+    },
+    {
+      "path": "SimObjects/Airplanes/inibuilds-a300-PZL-D-AFHM/Texture.D-AFHM/A300_Tail_comp.png.DDS.FLAGS",
+      "size": 21,
+      "date": 133483558882250170
+    },
+    {
+      "path": "SimObjects/Airplanes/inibuilds-a300-PZL-D-AFHM/Texture.D-AFHM/A300_TAIL_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 133483558882270006
+    },
+    {
+      "path": "SimObjects/Airplanes/inibuilds-a300-PZL-D-AFHM/Texture.D-AFHM/A300_WINGS_1002_ALBD.PNG.DDS",
+      "size": 8388736,
+      "date": 133483558883252085
+    },
+    {
+      "path": "SimObjects/Airplanes/inibuilds-a300-PZL-D-AFHM/Texture.D-AFHM/A300_WINGS_1002_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 133483558883281861
+    },
+    {
+      "path": "SimObjects/Airplanes/inibuilds-a300-PZL-D-AFHM/Texture.D-AFHM/A300_WINGS_1003_ALBD.PNG.DDS",
+      "size": 8388736,
+      "date": 133483558884075447
+    },
+    {
+      "path": "SimObjects/Airplanes/inibuilds-a300-PZL-D-AFHM/Texture.D-AFHM/A300_WINGS_1003_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 133483558884095287
+    },
+    {
+      "path": "SimObjects/Airplanes/inibuilds-a300-PZL-D-AFHM/Texture.D-AFHM/A300_WINGS_1012_ALBD.PNG.DDS",
+      "size": 8388736,
+      "date": 133483558885082326
+    },
+    {
+      "path": "SimObjects/Airplanes/inibuilds-a300-PZL-D-AFHM/Texture.D-AFHM/A300_WINGS_1012_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 133483558885107121
+    },
+    {
+      "path": "SimObjects/Airplanes/inibuilds-a300-PZL-D-AFHM/Texture.D-AFHM/A300_WINGS_1013_ALBD.PNG.DDS",
+      "size": 8388736,
+      "date": 133483558885846157
+    },
+    {
+      "path": "SimObjects/Airplanes/inibuilds-a300-PZL-D-AFHM/Texture.D-AFHM/A300_WINGS_1013_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 133483558885870959
+    },
+    {
+      "path": "SimObjects/Airplanes/inibuilds-a300-PZL-D-AFHM/Texture.D-AFHM/Custom_Door_Logos_ALBD.png.dds",
+      "size": 16512,
+      "date": 133483558885895763
+    },
+    {
+      "path": "SimObjects/Airplanes/inibuilds-a300-PZL-D-AFHM/Texture.D-AFHM/Custom_Door_Logos_ALBD.png.dds.json",
+      "size": 102,
+      "date": 133483558885915600
+    },
+    {
+      "path": "SimObjects/Airplanes/inibuilds-a300-PZL-D-AFHM/Texture.D-AFHM/MISC1_A_ALBD.PNG.DDS",
+      "size": 2097280,
+      "date": 133483558886123926
+    },
+    {
+      "path": "SimObjects/Airplanes/inibuilds-a300-PZL-D-AFHM/Texture.D-AFHM/MISC1_A_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 133483558886148722
+    },
+    {
+      "path": "SimObjects/Airplanes/inibuilds-a300-PZL-D-AFHM/Texture.D-AFHM/texture.CFG",
+      "size": 436,
+      "date": 133483558886168563
+    },
+    {
+      "path": "SimObjects/Airplanes/inibuilds-a300-PZL-D-AFHM/Texture.D-AFHM/thumbnail.jpg",
+      "size": 250155,
+      "date": 133483558886223119
+    },
+    {
+      "path": "SimObjects/Airplanes/inibuilds-a300-PZL-D-AFHM/Texture.D-AFHM/thumbnail_small.jpg",
+      "size": 60535,
+      "date": 133483558886247921
+    }
+  ]
+}

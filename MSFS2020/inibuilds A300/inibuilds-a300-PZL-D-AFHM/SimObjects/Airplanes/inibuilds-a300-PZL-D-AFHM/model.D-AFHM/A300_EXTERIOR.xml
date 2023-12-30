@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+
+<ModelInfo>
+	<LODS>
+		<LOD ModelFile="A300_EXTERIOR_LOD0.gltf" minSize="150">
+			<MergeModel>..\..\inibuilds-aircraft-a306r\model.pax\A300_EXTERIOR_LOD0.gltf</MergeModel>
+		</LOD>
+	<!--<LOD ModelFile="A300_EXTERIOR_LOD1.gltf" minSize="80"/>	-->
+	<!--<LOD ModelFile="A300_EXTERIOR_LOD2.gltf" minSize="50"/> 	-->
+	<!--<LOD ModelFile="A300_EXTERIOR_LOD3.gltf" minSize="20"/>	-->
+	<!--<LOD ModelFile="A300_EXTERIOR_LOD4.gltf" minSize="6"/> 	-->
+	<!--<LOD ModelFile="A300_EXTERIOR_LOD5.gltf" minSize="1"/> 	-->
+	</LODS>
+
+	<Behaviors>
+		<Include ModelBehaviorFile="inibuilds\A300_Exterior_Components.xml"/>
+
+		<Component ID="A300">
+			<UseTemplate Name="A300_Exterior_Template">
+				<AcfType>PAX</AcfType>
+			</UseTemplate>
+		</Component>
+	</Behaviors>
+</ModelInfo>
+
